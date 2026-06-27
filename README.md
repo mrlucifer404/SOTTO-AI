@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrlucifer443/SOTTO-AI/main/assets/logo.png" alt="Sotto AI Logo" width="220">
+  <img src="https://raw.githubusercontent.com/mrlucifer404/SOTTO-AI/main/assets/logo.png" alt="Sotto AI Logo" width="220">
 </p>
 
 <h1 align="center">Sotto AI</h1>
