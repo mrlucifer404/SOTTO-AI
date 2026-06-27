@@ -1,56 +1,155 @@
-# Sotto AI – Advanced Deepfake Detection System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrlucifer443/SOTTO-AI/main/assets/logo.png" alt="Sotto AI Logo" width="220">
+</p>
 
-**Developed by: Lucifer**
+<h1 align="center">Sotto AI</h1>
 
-**First Deepfake Detection System from Bangladesh**
----
+<p align="center">
+  <strong>Bangladesh's First Deepfake Detection & AI Image Verification Platform</strong>
+</p>
 
-## Overview
-
-Sotto AI is a next-generation deepfake detection system built to identify and prevent manipulation in digital media. By combining deep learning, visual forensics, Sotto AI helps ensure the authenticity and reliability of images.
-
----
-
-## Key Features
-
-- ✅ **Real-Time Deepfake Detection**  
-  Detects manipulated images, videos, and audio with high speed and accuracy.
-
-- ✅ **AI-Driven Media Forensics**  
-  Utilizes machine learning and metadata analysis to uncover synthetic or altered content.
-
-
-- ✅ **Multi-Model Evaluation System**  
-  Integrates multiple AI models to simulate expert-level judgment and improve detection reliability.
-
-- ✅ **Secure & Scalable Design**  
-  Suitable for enterprise systems, government use, and large-scale digital platforms.
+<p align="center">
+  <a href="https://sottoai.vercel.app">🌐 Website</a>
+</p>
 
 ---
 
-## How It Works
+# Sotto AI – SOTTO Bangladesh's First Deepfake Detection, AI Image Detector & Media Authenticity Verification Platform
 
-1. **Deep Learning Analysis**  
-   Scans media at pixel and signal level to detect irregularities and unnatural patterns.
+## Detect AI-Generated Images, Deepfakes, and Manipulated Media in Seconds
 
-2. **Content Verification Engine**  
-   Compares input media with trusted datasets and known authentic references.
+SOTTO BANGLADESH'S FIRST DEEPFAKE DETECTION Advanced AI-powered deepfake detection and media verification platform designed to identify AI-generated images, manipulated photos, synthetic media, and digitally altered visual content. Using state-of-the-art machine learning, computer vision, and deep learning technologies, Sotto AI analyzes image authenticity and provides confidence-based detection results to help users verify digital content.
 
-3. **Multi-Model Evaluation**  
-   Combines outputs from different AI models for a more accurate final decision.
-
-4. **Instant Reporting**  
-   Generates detailed results including confidence scores, heatmaps, and unique case IDs.
+As artificial intelligence continues to transform content creation, distinguishing real media from synthetic content has become increasingly important. Sotto AI helps individuals, journalists, researchers, businesses, educators, and fact-checkers evaluate image authenticity and reduce the spread of misinformation, deepfakes, and deceptive visual content.
 
 ---
 
-## Who Can Benefit?
+## 🌐 Official Website
 
-- Law enforcement and cybersecurity professionals  
-- Social media platforms and moderators  
-- Financial institutions and identity verification services  
-- Digital forensics and academic researchers  
+🔗 https://sottoai.vercel.app
 
 ---
 
-*Sotto AI is focused on detecting and reducing the impact of AI-generated media manipulation while promoting trust in digital content.*
+## 🚀 What is Sotto AI?
+
+Sotto AI is a web-based AI image detector and deepfake detection system that allows users to upload images and receive automated authenticity analysis in real time.
+
+The platform is designed to detect:
+
+- AI-generated images
+- Deepfake content
+- Manipulated photographs
+- Synthetic facial imagery
+- Visual inconsistencies
+- Digitally altered media
+- Machine-generated visual artifacts
+- Generative AI image patterns
+
+Sotto AI combines artificial intelligence, image forensics, and deep learning models to help users identify potentially manipulated visual content.
+
+---
+
+## ⚡ Core Features
+
+### 🔍 Deepfake Detection
+Analyze images for patterns commonly associated with deepfake generation and facial manipulation technologies.
+
+### 🤖 AI Image Detection
+Identify images generated using artificial intelligence image models and synthetic content generators.
+
+### 🛡️ Media Authenticity Verification
+Evaluate image authenticity using machine learning-based analysis and detection methods.
+
+### 📊 Confidence-Based Results
+Receive confidence scores and probability estimates to support image verification decisions.
+
+### ⚡ Real-Time Processing
+Upload and analyze images instantly through a modern web interface.
+
+### 📱 Responsive User Experience
+Optimized for desktop, tablet, and mobile devices.
+
+---
+
+## 🔬 Technologies
+
+Sotto AI is built using modern AI and web technologies:
+
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- JavaScript
+- HTML5
+- CSS3
+- Vercel
+- Cloudflare
+
+---
+
+## 🎯 Mission
+
+Our mission is to improve digital trust by providing accessible tools for detecting AI-generated content and manipulated media.
+
+Sotto AI aims to contribute to:
+
+- Deepfake awareness
+- Digital media verification
+- AI transparency
+- Content authenticity research
+- Online misinformation prevention
+- Responsible AI adoption
+
+---
+
+## 👨‍💻 Creator
+
+Sotto AI was independently created and developed by **Junaid Kabir (Lucifer)** a 16 years old boy.
+
+The project focuses on practical applications of artificial intelligence for media authenticity verification, image analysis, and deepfake detection.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### What is a deepfake?
+
+A deepfake is AI-generated or manipulated media that imitates real people, faces, voices, or events using machine learning technologies.
+
+### How does Sotto AI detect deepfakes?
+
+Sotto AI analyzes visual patterns, image artifacts, inconsistencies, and machine-generated characteristics using deep learning and computer vision techniques.
+
+### Can Sotto AI detect AI-generated images?
+
+Yes. Sotto AI is designed to identify visual indicators commonly associated with AI-generated imagery and synthetic media.
+
+### Is Sotto AI free to use?
+
+Availability and access may vary depending on the platform version and deployment.
+
+### Are detection results always accurate?
+
+No detection system can guarantee perfect accuracy. Results should be used alongside additional verification methods and human review.
+
+### Why is deepfake detection important?
+
+Deepfake detection helps combat misinformation, identity fraud, media manipulation, and deceptive digital content.
+
+---
+
+## 🔑 Search Keywords
+
+Deepfake Detection, AI Image Detector, Fake Image Checker, AI Generated Image Detection, Media Verification, Image Authenticity Verification, Deepfake Scanner, Synthetic Media Detection, Computer Vision, Deep Learning, Digital Forensics, Visual Content Analysis, Machine Learning, Content Authenticity, Image Verification Tool, AI Detection Platform.
+
+---
+
+## ⚠ Disclaimer
+
+Sotto is an Ai it can make mistakes.
+
+---
+
+## 📬 Contact
+
+🌐 Website: https://sottoai.vercel.app
